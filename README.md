@@ -10,23 +10,28 @@ I build reliable data platforms and pipelines across cloud, analytics, and obser
 
 | Project | What it is |
 | --- | --- |
+| MS Fabric Harness Framework | An agent harness built on the Fabric CLI that speeds up data engineering work in Microsoft Fabric. |
 | [MS-Fabric-API-Utilities](https://github.com/Etheo97127/MS-Fabric-API-Utilities) | Reusable Python modules for Microsoft Fabric notebooks: error handling, logging, a concurrent API client, an orchestrator, and a data loader. |
-| [OneDriveIgnore](https://github.com/Etheo97127/OneDriveIgnore) | A small utility for keeping selected folders out of OneDrive sync, even inside backed-up folders like `Desktop` and `Documents`. |
+| OneDriveIgnore | A small utility for keeping selected folders out of OneDrive sync, even inside backed-up folders like `Desktop` and `Documents`. |
 | [My-Interesting-CourseWork](https://github.com/Etheo97127/My-Interesting-CourseWork) | Coursework projects from my degree that I found worth keeping. |
 
 ### 💡 What Inspires Me
 
-I'm driven by curiosity about how systems work underneath, and I'm happiest when messy data turns into something people can trust and use. Working full-time while studying keeps me learning both ways. Work shows me which problems matter, and school gives me the fundamentals to solve them properly.
+I'm exploring how agentic workflows can change data engineering. Much of the job is still repetitive work: scaffolding pipelines, wiring deployments, and checking that everything runs. I'm building harnesses on the Fabric CLI and Databricks so that agents can take on that work safely, letting engineers move faster and spend more time on design.
+
+### 🌱 Open Source
+
+I'd love to become an open source contributor and I'm choosing a project to start with.
 
 ### 🛠️ Stack
 
-[![Stack](https://skillicons.dev/icons?i=py,ts,cpp,r,postgres,aws,azure,terraform,docker,linux,grafana,react&theme=light)](https://skillicons.dev)
-
-Also: Spark · Microsoft Fabric · Power BI · Iceberg · Delta Lake · InfluxDB
-
-### 🏅 Certifications
-
-AWS Solutions Architect – Associate · HashiCorp Terraform Associate · Microsoft Fabric Analytics Engineer Associate
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,r" height="48" alt="Python, C++, R" />
+  <img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" title="Claude" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,linux,grafana" height="48" alt="Terraform, Docker, Linux, Grafana" />
+  <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-icon.png" height="48" alt="Microsoft Fabric" title="Microsoft Fabric" />
+  <img src="https://skillicons.dev/icons?i=notion,aws,azure" height="48" alt="Notion, AWS, Azure" />
+</p>
 
 ### 📫 Reach Me
 
