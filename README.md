@@ -8,12 +8,25 @@ I build reliable data platforms and pipelines across cloud, analytics, and obser
 
 ### 🔭 Projects
 
+#### 🏗️ Data Engineering on Microsoft Fabric
+
 | Project | What it is |
 | --- | --- |
 | MS Fabric Harness Framework | An agent harness built on the Fabric CLI that speeds up data engineering work in Microsoft Fabric. |
 | [MS-Fabric-API-Utilities](https://github.com/Etheo97127/MS-Fabric-API-Utilities) | Reusable Python modules for Microsoft Fabric notebooks: error handling, logging, a concurrent API client, an orchestrator, and a data loader. |
+
+#### 🧰 Developer Tooling
+
+| Project | What it is |
+| --- | --- |
+| [claude-idle-notifier](https://github.com/Etheo97127/claude-idle-notifier) | Windows notifications for Claude Code sessions that are waiting on you or have gone idle, with repeating reminders and a folder exclusion list. Plain PowerShell, nothing to install. |
 | OneDriveIgnore | A small utility for keeping selected folders out of OneDrive sync, even inside backed-up folders like `Desktop` and `Documents`. |
-| [My-Interesting-CourseWork](https://github.com/Etheo97127/My-Interesting-CourseWork) | Coursework projects from my degree that I found worth keeping. |
+
+#### 🎓 Academic
+
+| Project | What it is |
+| --- | --- |
+| [My-Interesting-CourseWork](https://github.com/Etheo97127/My-Interesting-CourseWork) | Coursework projects from my degree that I found worth keeping, including [Whose 15-Minute City?](https://github.com/Etheo97127/tba4220-tp-geospatial-accessibility-analysis), an R project on walkable access to everyday services in Singapore. |
 
 ### 💡 What Inspires Me
 
